@@ -20,3 +20,25 @@ Insights:
 - Customer analysis
 - Profitability trends
 - Sales trends
+
+## Dashboard Overview
+
+This project includes an interactive dashboard created using Tableau.
+
+Dashboard Features:
+
+* Total Sales KPI
+* Total Orders KPI
+* Total Customers KPI
+* Sales Trend Analysis
+* Sales by Category
+* Sales by Region
+* Top 10 Customers
+* Profit by Subcategory
+
+Files Included:
+
+* task3_dashboard.ipynb
+* cleaned_superstore.csv
+* dashboard_sc.png
+
